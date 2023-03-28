@@ -1,0 +1,9 @@
+The amount of time taken by an algorithm to run as a function of length of input is called Time Complexity.
+The amount of space taken by an algorithm to run as a function of length of input is called Time Complexity.
+These are not the actual time but are the CPU operation.
+Big O : Upper bound
+Theta 0 : Average case
+Omega : Lower bound 
+
+Best to worst:
+O(1)  O(logN)  O(N^1/2)   O(N)   O(NlogN)    O(N^2)   O(N^3)       O(2^N)       O(N!)      O(N^N)
